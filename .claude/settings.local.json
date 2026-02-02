@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx shadcn@latest add alert-dialog:*)",
+      "Bash(npm install:*)"
+    ]
+  }
+}
